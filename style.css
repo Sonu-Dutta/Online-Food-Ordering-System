@@ -1,0 +1,28 @@
+#top{
+  margin:0 6%;
+  margin-top: 4.5rem;
+}
+body {
+  background-color: rgb(127, 137, 155);
+ 
+
+}
+#logo{
+  width: 3rem;
+  height: 3rem;
+}
+footer {
+  background-color: black;
+}
+.card-title{
+  text-align: center;
+}
+.container{
+  margin-bottom: 4rem;
+}
+.white{
+  color: rgb(205, 210, 214);
+}
+.white:hover{
+  color: white;
+}
